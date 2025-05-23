@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> second s/w version </title>
+</head>
+<body>
+<p> my name is sanjana petare. i m from ashta. there are 5 members in my family including me.
+i have completed my b.e in cse from d.y.patil college of engineering and technology kasaba bawda,
+kolhapur. </p>
+</body>
+</html>
